@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Myu React App</h1>
-      <h2>Author: naveen</h2>
+      <h1>My Recipies</h1>
+      <h2>There are no recipes to list</h2>
       </div>
   );
 }
